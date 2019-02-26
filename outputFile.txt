@@ -1,0 +1,6 @@
+For the years: 2015 to 1940:
+The average number of storms was 10.97.
+The average number of hurricanes was 6.09.
+The average damage was $4,996,355,263.16.
+The year(s) with the highest number of storms is:  2005.
+The year(s) with the highest number of hurricanes is:  2005 1969.
